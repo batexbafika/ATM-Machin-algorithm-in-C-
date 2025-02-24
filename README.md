@@ -1,1 +1,1 @@
-# ATM-Machin-algorithm-in-C-
+# ATM-Machine-algorithm-in-C-
